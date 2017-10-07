@@ -1,0 +1,30 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "This is landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ridikon/New-Landing.git"
+  },
+  "author": "Vitalii Ridikon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ridikon/New-Landing/issues"
+  },
+  "homepage": "https://github.com/Ridikon/New-Landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.5.1",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
+}
